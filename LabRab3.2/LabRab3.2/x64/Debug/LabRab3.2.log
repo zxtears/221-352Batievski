@@ -1,0 +1,4 @@
+﻿  LabRab3.2.cpp
+D:\repos\LabRab3.2\LabRab3.2\LabRab3.2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\repos\LabRab3.2\LabRab3.2\LabRab3.2.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LabRab3.2.vcxproj -> D:\repos\LabRab3.2\x64\Debug\LabRab3.2.exe
