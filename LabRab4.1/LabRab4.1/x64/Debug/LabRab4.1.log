@@ -1,0 +1,9 @@
+﻿  LabRab4.1.cpp
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(5,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(32,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(57,18): warning C4305: инициализация: усечение из "int" в "char"
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(57,13): warning C4309: инициализация: усечение константного значения
+D:\repos\LabRab4.1\LabRab4.1\LabRab4.1.cpp(61,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LabRab4.1.vcxproj -> D:\repos\LabRab4.1\x64\Debug\LabRab4.1.exe
