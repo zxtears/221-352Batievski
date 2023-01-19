@@ -1,0 +1,3 @@
+﻿  EXAM.cpp
+D:\repos\EXAM\EXAM\EXAM.cpp(35,1): error C2628: недопустимый "Game_Batievski" с последующим "int" (возможно, отсутствует ";")
+D:\repos\EXAM\EXAM\EXAM.cpp(35,5): error C3874: возвращаемый тип "main" должен быть "int", а не "Game_Batievski"
