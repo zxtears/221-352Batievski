@@ -1,0 +1,18 @@
+﻿  LabRab_6.4.cpp
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(6,10): warning C4101: z: неиспользованная локальная переменная
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(21,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(21,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fH"
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(22,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(22,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "creationTime"
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(23,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(23,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sysTime"
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(24,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(24,34): error C2065: GENERIC_READ: необъявленный идентификатор
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(24,54): error C2065: OPEN_EXISTING: необъявленный идентификатор
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(24,69): error C2065: FILE_ATTRIBUTE_NORMAL: необъявленный идентификатор
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(24,6): error C3861: CreateFile: идентификатор не найден
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(25,1): error C2059: синтаксическая ошибка: if
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(26,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\GAMING\source\repos\LabRab_6.4\LabRab_6.4\LabRab_6.4.cpp(26,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
